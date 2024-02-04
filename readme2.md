@@ -20,7 +20,7 @@ worstvegetable@gmail.comまで！
 
 # 制作手順
 ①目印のため紙を半分に折る  
-<img src="https://github.com/tokeruic/flipbox/assets/69045494/6729ad83-189a-4172-9e4c-1a02d7889d3c" width="50%">
+<img src="https://github.com/tokeruic/flipbox/assets/69045494/6729ad83-189a-4172-9e4c-1a02d7889d3c" width="25%">
 
 同梱のサンプル紙を使用するか、こちらから画像データを制作してください。  
 https://github.com/tokeruic/flipbox  
