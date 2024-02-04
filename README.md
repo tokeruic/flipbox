@@ -1,7 +1,7 @@
 「FlipboxPFGMaker」ダウンロードはこちら  
 https://github.com/tokeruic/flipbox/releases/download/FlipboxPDFMaker/FlipboxPDFMaker_ver1.0.zip
 
-「Flipbox」の説明書はこちら
+「Flipbox」の説明書はこちら  
 https://github.com/tokeruic/flipbox/blob/main/readme2.md
 
 # 説明
