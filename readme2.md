@@ -21,9 +21,6 @@ worstvegetable@gmail.comまで！
 # 制作手順
 ①目印のため紙を半分に折る  
 
-![66795_0](https://github.com/tokeruic/flipbox/assets/69045494/a6512fb5-0b72-41e6-bea2-651e3423e4b9)
-![66794_0](https://github.com/tokeruic/flipbox/assets/69045494/c366392b-51b8-4ca2-aea1-01763fe28c7e)
-![66793_0](https://github.com/tokeruic/flipbox/assets/69045494/ffd60fe7-9c86-41c5-93db-369a9e6b53e6)
 ![66792_0](https://github.com/tokeruic/flipbox/assets/69045494/6729ad83-189a-4172-9e4c-1a02d7889d3c)
 
 同梱のサンプル紙を使用するか、こちらから画像データを制作してください。  
@@ -31,7 +28,11 @@ https://github.com/tokeruic/flipbox
 （データ制作ソフトは現在Windowsのみ対応しています）  
 ※紙を折った後は、画像右下に記載のコマ数順に並べておくと後でラクです！  
 ②紙をプラスチック棒の中央に糊で貼り付ける  
+![66793_0](https://github.com/tokeruic/flipbox/assets/69045494/ffd60fe7-9c86-41c5-93db-369a9e6b53e6)
+![66794_0](https://github.com/tokeruic/flipbox/assets/69045494/c366392b-51b8-4ca2-aea1-01763fe28c7e)
+![66795_0](https://github.com/tokeruic/flipbox/assets/69045494/a6512fb5-0b72-41e6-bea2-651e3423e4b9)
 ③Flipbox本体にセットする。  
+
 ④紙をセットしたFlipbox本体をモーターモジュールにセットする。   
 ⑤単３電池を入れる。プラス・マイナスにお気をつけください。  
 ⑥モーターモジュール上部のノブをまわすと装置が始動します。  
