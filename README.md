@@ -1,5 +1,8 @@
-ダウンロードはこちら  
-https://github.com/tokeruic/flipbox/releases/download/FlipboxPDFMaker/FlipboxPDFMaker_ver1.0.zip  
+「FlipboxPFGMaker」ダウンロードはこちら  
+https://github.com/tokeruic/flipbox/releases/download/FlipboxPDFMaker/FlipboxPDFMaker_ver1.0.zip
+
+「Flipbox」の説明書はこちら
+
 # 説明
 本ソフトウェア「FlipboxPDFMaker」を使うと、用意した画像をパラパラ漫画装置・Flipboxに使用できるように加工&PDFに保存できます。
 
