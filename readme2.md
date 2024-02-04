@@ -25,7 +25,7 @@ worstvegetable@gmail.comまで！
 同梱のサンプル紙を使用するか、こちらから画像データを制作してください。  
 https://github.com/tokeruic/flipbox  
 （データ制作ソフトは現在Windowsのみ対応しています）  
-※紙を折った後は、画像右下に記載のコマ数順に並べておくと後でラクです！  
+ 
 ②紙をプラスチック棒の中央に糊で貼り付ける  
 
 <img src="https://github.com/tokeruic/flipbox/assets/69045494/ffd60fe7-9c86-41c5-93db-369a9e6b53e6" width="25%">
