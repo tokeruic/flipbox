@@ -1,7 +1,7 @@
 ダウンロードはこちら
 
 # 説明
-「FlipboxPDFMaker」は、用意した画像をパラパラ漫画装置・Flipboxに使用できるように加工&PDFに保存します。
+本ソフトウェア「FlipboxPDFMaker」は、用意した画像をパラパラ漫画装置・Flipboxに使用できるように加工&PDFに保存します。
 
 # 必要なもの
 ・Flipbox本体
