@@ -16,14 +16,13 @@ worstvegetable@gmail.comまで！
 ・単３電池（3本）  
   
 また、ご自身が用意した画像で制作する場合は、WindowsPCが必要です。  
-詳しくはこちら https://github.com/tokeruic/flipbox  
-
+詳しくはこちらhttps://github.com/tokeruic/flipbox/blob/main/README.md
 # 制作手順
 ①目印のため紙を半分に折る  
 <img src="https://github.com/tokeruic/flipbox/assets/69045494/6729ad83-189a-4172-9e4c-1a02d7889d3c" width="25%">
 
 同梱のサンプル紙を使用するか、こちらから画像データを制作してください。  
-https://github.com/tokeruic/flipbox  
+https://github.com/tokeruic/flipbox/blob/main/README.md  
 （データ制作ソフトは現在Windowsのみ対応しています）  
  
 ②紙をプラスチック棒の中央に糊で貼り付ける  
