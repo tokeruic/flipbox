@@ -33,10 +33,10 @@ https://github.com/tokeruic/flipbox/blob/main/README.md
 <img src="https://github.com/tokeruic/flipbox/assets/69045494/a6512fb5-0b72-41e6-bea2-651e3423e4b9" width="25%">
 
 **③モーターモジュールからFlipbox本体を外す。**  
-<span style="color: red; ">
+<span style="color: red; ">あ</span>
 **紙をセットする際や、ハンドルを回してアニメーションさせる場合は、必ずモーターモジュールから本体を取り外してください。**  
 **歯車が噛み合っている時に無理やりハンドルを回すと故障の原因になります。**  
-</span>
+
 
 **④紙をセットする。  **
   
