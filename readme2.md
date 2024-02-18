@@ -47,11 +47,11 @@ https://github.com/tokeruic/flipbox/blob/main/README.md
   
 <img src="https://github.com/tokeruic/flipbox/assets/69045494/ea5b8164-eebf-4c07-8e3b-15a5867ca7b5" width="25%">  
   
-画像の向きにハンドルを回しながら、「２，３，４，５…」と順番に入れていきます。  
+画像の青矢印の向きにハンドルを回しながら、「１，２，３，４，５…」と順番に紙を入れていきます。  
+<img src="https://github.com/tokeruic/flipbox/assets/69045494/184cc661-d4c9-44df-a657-d13e0bc88f5f" width="25%">  
+ 
 途中でハンドルを回してみて、問題なく動いているか確認してみるのがオススメです！  
-  
-<img src="https://github.com/tokeruic/flipbox/assets/69045494/403e266e-f80e-40e2-8507-e769e1277dfc" width="25%">  
-  
+   
 ## ⑤紙をセットしたFlipbox本体をモーターモジュールにセットする。
 接続用の部品の根本（画像参照）を指で押しながらグッと押し込みます。  
   
