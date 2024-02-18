@@ -23,8 +23,8 @@ worstvegetable@gmail.comまで！
 同梱のサンプル紙を使用するか、こちらから画像データを制作してください。  
 https://github.com/tokeruic/flipbox/blob/main/README.md  
 （データ制作ソフトは現在Windowsのみ対応しています）  
- <span style="color: red">あ</span>
-**②紙をプラスチック棒の中央に糊で貼り付ける  **
+　　
+**②紙をプラスチック棒の中央に糊で貼り付ける**  
 
 <img src="https://github.com/tokeruic/flipbox/assets/69045494/ffd60fe7-9c86-41c5-93db-369a9e6b53e6" width="25%">
 
