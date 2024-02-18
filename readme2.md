@@ -53,7 +53,7 @@ https://github.com/tokeruic/flipbox/blob/main/README.md
 <img src="https://github.com/tokeruic/flipbox/assets/69045494/403e266e-f80e-40e2-8507-e769e1277dfc" width="25%">  
   
 ## ⑤紙をセットしたFlipbox本体をモーターモジュールにセットする。
-画像の部分を指で押しながらグッと押し込みます。  
+接続用の部品の根本（画像参照）を指で押しながらグッと押し込みます。  
   
 ## ⑥単３電池を入れる。
 プラス・マイナスにお気をつけください。バネがある方がマイナスです。  
