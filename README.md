@@ -34,6 +34,7 @@ https://github.com/tokeruic/flipbox/blob/main/readme2.md
 ④「FlipboxPDFMaker.exe」を起動します。
 
 ⑤「データ作成開始！」ボタンを押すとデータ作成が始まります！
+「フレームをつける」のチェックボックスをオンにすると、フレームがつきます。
 うまくいくと、下記2種類のPDFデータが生成されます。  
 【Flipbox_black】【Flipbox_white】  
 ノンブル（画像右下に記載されるページ数）の色違いですので、お好きなほうをお選びください！  
