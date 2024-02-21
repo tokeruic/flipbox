@@ -18,6 +18,9 @@ https://github.com/tokeruic/flipbox/blob/main/readme2.md
 ※Flipbox付属の棒を使用してもOKです！  
 
 # 手順
+動画はコチラ
+https://www.youtube.com/watch?v=J5A8rLZdbNQ
+
 ①Flipboxで使いたい画像を24枚用意します。  
 　正方形の画像がオススメです。  
 ※正方形以外の画像はアスペクト比率がおかしくなります  
