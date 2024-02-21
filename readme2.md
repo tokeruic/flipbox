@@ -40,20 +40,13 @@ https://github.com/tokeruic/flipbox/blob/main/README.md
 ## ④紙をセットする。
   
 セット方法の動画はコチラ  
-  
-  
-まずは右下に「1」と書かれた紙から始めます。  
-棒の片側をFlipbox本体の輪っかにある小さな穴に入れ、若干たわませながら反対側も入れます。  
-  
-<img src="https://github.com/tokeruic/flipbox/assets/69045494/ea5b8164-eebf-4c07-8e3b-15a5867ca7b5" width="25%">  
-  
-画像の青矢印の向きにハンドルを回しながら、「１，２，３，４，５…」と順番に紙を入れていきます。  
-<img src="https://github.com/tokeruic/flipbox/assets/69045494/184cc661-d4c9-44df-a657-d13e0bc88f5f" width="25%">  
- 
-途中でハンドルを回してみて、問題なく動いているか確認してみるのがオススメです！  
+[![](https://img.youtube.com/vi/T0SDO_XomPg&feature=youtu.be/0.jpg)](https://www.youtube.com/watch?v=T0SDO_XomPg&feature=youtu.be)
    
 ## ⑤紙をセットしたFlipbox本体をモーターモジュールにセットする。
-接続用の部品の根本（画像参照）を指で押しながらグッと押し込みます。  
+動画はコチラ
+[![](https://img.youtube.com/vi/n_5_KTsYoL4/0.jpg)](https://www.youtube.com/watch?v=n_5_KTsYoL4)
+
+接続用の部品の根本（動画参照）を指で押しながらグッと押し込みます。  
   
 ## ⑥単３電池を入れる。
 プラス・マイナスにお気をつけください。バネがある方がマイナスです。  
