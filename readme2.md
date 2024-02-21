@@ -40,11 +40,11 @@ https://github.com/tokeruic/flipbox/blob/main/README.md
 ## ④紙をセットする。
   
 セット方法の動画はコチラ  
-[![](https://img.youtube.com/vi/T0SDO_XomPg&feature=youtu.be/0.jpg)](https://www.youtube.com/watch?v=T0SDO_XomPg&feature=youtu.be)
+https://www.youtube.com/watch?v=T0SDO_XomPg
    
 ## ⑤紙をセットしたFlipbox本体をモーターモジュールにセットする。
 動画はコチラ
-[![](https://img.youtube.com/vi/n_5_KTsYoL4/0.jpg)](https://www.youtube.com/watch?v=n_5_KTsYoL4)
+https://www.youtube.com/watch?v=n_5_KTsYoL4
 
 接続用の部品の根本（動画参照）を指で押しながらグッと押し込みます。  
   
