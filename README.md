@@ -46,7 +46,7 @@ https://www.youtube.com/watch?v=J5A8rLZdbNQ
 印刷時、詳細設定にある倍率は【100%】で印刷してください。  
 怪我しないように気をつけて！  
 
-⑦1mmくらいの太さの棒を長さ5cmに切ります。
+⑦1mmくらいの太さの棒を長さ4.9cmに切ります。
 
 ⑧糊で棒に貼ります（詳細は下記参照ください！）
 https://github.com/tokeruic/flipbox/blob/main/readme2.md    
