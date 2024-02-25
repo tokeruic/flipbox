@@ -18,8 +18,9 @@ https://github.com/tokeruic/flipbox/blob/main/readme2.md
 ※Flipbox付属の棒を使用してもOKです！  
 
 # 手順
-動画はコチラ
-https://www.youtube.com/watch?v=J5A8rLZdbNQ
+動画はコチラ  
+(現在はオプション機能が実装されているので、動画と少し画面が異なります)  
+https://www.youtube.com/watch?v=J5A8rLZdbNQ  
 
 **①Flipboxで使いたい画像を24枚用意します。**   
 正方形の画像がオススメです。  
