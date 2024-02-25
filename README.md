@@ -35,7 +35,7 @@ https://www.youtube.com/watch?v=J5A8rLZdbNQ
 01_例.png  
 02_例.png  
 03_例.png  
-︙
+︙  
 23_例.png  
 24_例.png  
 ～～～～～～～～～  
