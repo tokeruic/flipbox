@@ -44,21 +44,30 @@ https://github.com/tokeruic/flipbox/blob/main/README.md
 **歯車が噛み合っている時に無理やりハンドルを回すと故障の原因になります。**  
 
 
-Flipbox本体を組み立てる
-ハンドルの根本を
+## ④Flipbox本体を組み立てる  
+袋の中に入っているパーツを使います。
+<img src="https://github.com/tokeruic/flipbox/assets/69045494/abc07563-a564-4ba3-9636-41ec30b71c9d" width="25%">  
+  
+ハンドルを本体にセットし、輪っかを２つとも通します。  
+**このとき、必ず写真の親指の位置を押すようにしてください。  ハンドルに力がかかりすぎると折れる可能性があります**  
+<img src="https://github.com/tokeruic/flipbox/assets/69045494/ce23fb1e-7d9a-4999-9cea-f9aa9b8b0ea8" width="25%">  
+下記写真のように、輪っかを両端に寄せます。  
+<img src="https://github.com/tokeruic/flipbox/assets/69045494/70aa79b3-bf90-463b-9797-5217646529ee" width="25%">   
 
-## ④紙をセットする。
+<img src="https://github.com/tokeruic/flipbox/assets/69045494/0345f506-a70c-4db9-be43-e1a82b1d2e1d" width="25%">   
+
+## ⑤紙をセットする。
   
 セット方法の動画はコチラ  
 https://www.youtube.com/watch?v=T0SDO_XomPg
    
-## ⑤紙をセットしたFlipbox本体をモーターモジュールにセットする。
+## ⑥紙をセットしたFlipbox本体をモーターモジュールにセットする。
 動画はコチラ  
 https://www.youtube.com/watch?v=n_5_KTsYoL4
 
 接続用の部品の根本（動画参照）を指で押しながらグッと押し込みます。  
   
-## ⑥単３電池を入れる。
+## ⑦単３電池を入れる。
 プラス・マイナスにお気をつけください。バネがある方がマイナスです。  
-## ⑦ノブを回すと装置が始動します！
+## ⑧ノブを回すと装置が始動します！
 動き出したらノブを逆側にまわして速度を調整してください
