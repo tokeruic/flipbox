@@ -12,9 +12,11 @@ https://github.com/tokeruic/flipbox/blob/main/readme2.md
 ・Windows PC  
 ・A4用紙が印刷できるプリンター  
 ・お好きなA4用紙（分厚すぎない半光沢紙がオススメです）  
-　例：コクヨ インクジェット 写真用紙 セミ光沢 A4KJ-J14A4-100など  
+　例：コクヨ インクジェット 写真用紙 セミ光沢 A4KJ-J14A4-10など  
+ https://www.amazon.co.jp/dp/B002OGGGTC/ref=twister_B018LNOZX0?_encoding=UTF8&th=1  
 ・太さ1mmプラスチックの棒  
 ※【タミヤ 楽しい工作シリーズ No.174 プラ材1mm丸棒10本入】がオススメです！  
+https://www.amazon.co.jp/%E3%82%BF%E3%83%9F%E3%83%A4-%E6%A5%BD%E3%81%97%E3%81%84%E5%B7%A5%E4%BD%9C%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-No-174-%E3%83%97%E3%83%A9%E6%9D%901mm%E4%B8%B8%E6%A3%9210%E6%9C%AC%E5%85%A5-70174/dp/B001Q11M0Y  
 ※Flipbox付属の棒を使用してもOKです！  
 
 # 手順
