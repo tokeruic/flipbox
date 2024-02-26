@@ -53,7 +53,7 @@ https://github.com/tokeruic/flipbox/blob/main/README.md
 <img src="https://github.com/tokeruic/flipbox/assets/69045494/ce23fb1e-7d9a-4999-9cea-f9aa9b8b0ea8" width="25%">  
 下記写真のように、輪っかを両端に寄せます。  
 <img src="https://github.com/tokeruic/flipbox/assets/69045494/70aa79b3-bf90-463b-9797-5217646529ee" width="25%">   
-赤いパーツをセットします。（こちらは緩めに作っているので、落とさないように注意してください）
+赤いパーツをセットします。ゆるめに作っているので、落とさないようにご注意ください。    
 <img src="https://github.com/tokeruic/flipbox/assets/69045494/0345f506-a70c-4db9-be43-e1a82b1d2e1d" width="25%">   
 
 ## ⑤紙をセットする。
