@@ -50,7 +50,9 @@ https://github.com/tokeruic/flipbox/releases/download/FlipboxPDFMaker/FlipboxPDF
 ※1枚目から9枚目のファイル名は、「01」「02」のように必ず先頭に0をつけてください。  
 ※ファイル名が全て同じであれば、連番を末尾につけてもOKです。  
 
-**⑤「FlipboxPDFMaker.exe」を起動します。**  
+**⑤「Flipbox.exe」を起動します。**  
+![image](https://github.com/tokeruic/flipbox/assets/69045494/2fb7f6e5-a34f-47f7-b285-b2dc8a228b32)  
+  
 ![image](https://github.com/tokeruic/flipbox/assets/69045494/e8f4a138-0dc2-41fe-9d71-dec06b5bfc89)
   
 ●「中央に線をつける」のチェックボックスをオンにすると、各画像の中央に線がつきます。  
