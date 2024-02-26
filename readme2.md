@@ -49,7 +49,7 @@ https://github.com/tokeruic/flipbox/blob/main/README.md
 <img src="https://github.com/tokeruic/flipbox/assets/69045494/abc07563-a564-4ba3-9636-41ec30b71c9d" width="25%">  
   
 ハンドルを本体にセットし、輪っかを２つとも通します。  
-**このとき、必ず写真の親指の位置を押すようにしてください。  ハンドルに力がかかりすぎると折れる可能性があります**  
+**このとき、必ず写真の親指の位置を押すようにしてください。  ハンドルに力がかかりすぎると折れる可能性があります。**  
 <img src="https://github.com/tokeruic/flipbox/assets/69045494/ce23fb1e-7d9a-4999-9cea-f9aa9b8b0ea8" width="25%">  
 下記写真のように、輪っかを両端に寄せます。  
 <img src="https://github.com/tokeruic/flipbox/assets/69045494/70aa79b3-bf90-463b-9797-5217646529ee" width="25%">   
