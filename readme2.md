@@ -45,7 +45,7 @@ https://github.com/tokeruic/flipbox/blob/main/README.md
 
 
 ## ④Flipbox本体を組み立てる  
-袋の中に入っているパーツを使います。
+袋の中に入っているパーツを使います。  
 <img src="https://github.com/tokeruic/flipbox/assets/69045494/abc07563-a564-4ba3-9636-41ec30b71c9d" width="25%">  
   
 ハンドルを本体にセットし、輪っかを２つとも通します。  
