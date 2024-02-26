@@ -11,7 +11,7 @@ https://github.com/tokeruic/flipbox/blob/main/readme2.md
 ・Flipbox本体  
 ・Windows PC  
 ・A4用紙が印刷できるプリンター  
-(コンビニの光沢紙印刷でも可能です！)   
+　プリンターがない場合は、コンビニの光沢紙印刷でもOKです！  
 ・お好きなA4用紙（分厚すぎない半光沢紙がオススメです）  
 　例：コクヨ インクジェット 写真用紙 セミ光沢 A4KJ-J14A4-10など  
  https://www.amazon.co.jp/dp/B002OGGGTC/ref=twister_B018LNOZX0?_encoding=UTF8&th=1  
