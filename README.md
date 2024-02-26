@@ -22,7 +22,7 @@ https://github.com/tokeruic/flipbox/blob/main/readme2.md
 (現在はオプション機能が実装されているので、動画と少し画面が異なります)  
 https://www.youtube.com/watch?v=J5A8rLZdbNQ  
 
-**①ダウンロードしたZipファイルを解凍します。**
+**①ダウンロードしたZipファイルを解凍します。**  
 ダウンロードはコチラ  
 https://github.com/tokeruic/flipbox/releases/download/FlipboxPDFMaker/FlipboxPDFMaker_ver1.2.zip  
   
