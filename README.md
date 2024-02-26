@@ -45,14 +45,14 @@ https://github.com/tokeruic/flipbox/releases/download/FlipboxPDFMaker/FlipboxPDF
 23_例.png  
 24_例.png  
 ～～～～～～～～～  
-<img src="https://github.com/tokeruic/flipbox/assets/69045494/14f7425a-b6bb-4ebd-ab5c-12115daabc3f" width="25%">   
+<img src="https://github.com/tokeruic/flipbox/assets/69045494/14f7425a-b6bb-4ebd-ab5c-12115daabc3f" width="40%">   
   
 ※1枚目から9枚目のファイル名は、「01」「02」のように必ず先頭に0をつけてください。  
 ※ファイル名が全て同じであれば、連番を末尾につけてもOKです。  
 
 **⑤「FlipboxPDFMaker.exe」を起動します。**  
 ![image](https://github.com/tokeruic/flipbox/assets/69045494/e8f4a138-0dc2-41fe-9d71-dec06b5bfc89)
-
+  
 ●「中央に線をつける」のチェックボックスをオンにすると、各画像の中央に線がつきます。  
 　カット後に折る際、中央でキレイに折りやすくなります。  目立たない色を選びましょう。  
 　きれいにカットできない場合にオススメですが、基本的には不要です！  
@@ -64,6 +64,8 @@ https://github.com/tokeruic/flipbox/releases/download/FlipboxPDFMaker/FlipboxPDF
 
 成功すると、下記2種類のPDFデータが生成されます。  
 【Flipbox_black】【Flipbox_white】  
+![image](https://github.com/tokeruic/flipbox/assets/69045494/9c0bd7de-594e-4500-a075-7467b1b39dd5)  
+
 ノンブル（画像右下に記載されるページ数）の色違いですので、お好きなほうをお選びください！  
 
 **⑦PDFをA4で印刷して、ハサミ・カッター等で切り取ってください。**  
@@ -71,8 +73,8 @@ https://github.com/tokeruic/flipbox/releases/download/FlipboxPDFMaker/FlipboxPDF
 怪我しないように気をつけて！  
 
 **⑧1mmくらいの太さの棒を長さ4.9cmに切ります。**  
-
-**⑨糊で棒に貼ります（詳細は下記参照ください！）**  
+棒は【タミヤ 楽しい工作シリーズ No.174 プラ材1mm丸棒10本入】がオススメです！  
+**⑨棒に糊づけします（詳細は下記参照ください！）**  
 https://github.com/tokeruic/flipbox/blob/main/readme2.md  
 **⑩Flipbox本体にセットして完成！**  
 
