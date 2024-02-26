@@ -73,7 +73,7 @@ https://github.com/tokeruic/flipbox/releases/download/FlipboxPDFMaker/FlipboxPDF
 怪我しないように気をつけて！  
 
 **⑧1mmくらいの太さの棒を長さ4.9cmに切ります。**  
-棒は【タミヤ 楽しい工作シリーズ No.174 プラ材1mm丸棒10本入】がオススメです！  
+棒は【タミヤ 楽しい工作シリーズ No.174 プラ材1mm丸棒10本入】がオススメです！    
 **⑨棒に糊づけします（詳細は下記参照ください！）**  
 https://github.com/tokeruic/flipbox/blob/main/readme2.md  
 **⑩Flipbox本体にセットして完成！**  
