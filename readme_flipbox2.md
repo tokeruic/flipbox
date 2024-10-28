@@ -9,7 +9,7 @@ worstvegetable@gmail.comまで！
 
 # 同梱物  
 ・Flipbox2モーターモジュール  
-　[追加でご購入する場合はこちら](https://saiyaco.booth.pm/)
+　[追加でご購入する場合はこちら](https://saiyaco.booth.pm/)  
   毎月在庫なくなり次第、定量数を追加予定です。  
 ・Flipbox2ハンドルモジュール（モーターモジュールにセット済）
 ・プラスチック棒（24本+予備1本）  
