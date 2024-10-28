@@ -10,7 +10,7 @@ https://github.com/tokeruic/flipbox/blob/main/readme_flipbox2.md
 # 必要なもの
 ・Flipbox2モーターモジュール  
 　セットでお買い上げの方は、１点付属しています。  
-　[追加でご購入する場合はこちら](https://saiyaco.booth.pm/)  
+　[追加でご購入する場合はこちら](https://saiyaco.booth.pm/items/6234946)  
 　毎月在庫なくなり次第、定量数を注文受け付け予定です。  
 ・Windows PC  
 ・A4用紙が印刷できるプリンター  
