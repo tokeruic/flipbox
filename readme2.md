@@ -1,3 +1,8 @@
+こちらは旧型の説明書です。  
+Flipbox2以降お買い上げの方はこちらを参照ください。  
+https://github.com/tokeruic/flipbox/blob/main/readme_flipbox2.md
+
+
 # Flipboxの組み立て説明書
 
 （2/26修正いたしました）
