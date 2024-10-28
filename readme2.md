@@ -5,7 +5,7 @@ https://github.com/tokeruic/flipbox/blob/main/readme_flipbox2.md
 
 # Flipboxの組み立て説明書
 
-（2/26修正いたしました）
+（2024/2/26修正いたしました）
 
 ご使用中に歯車が削れて回らなくなった、などありましたら  
 XのDMか、下記メールアドレスまでお教えください。
