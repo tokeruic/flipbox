@@ -1,15 +1,15 @@
 （制作中）
 
-# Flipbox2の組み立て説明書
+# Flipbox2セットの組み立て説明書
 
 この度はお手に取っていただきありがとうございます！  
 不備や分からない部分などありましたら、  
 worstvegetable@gmail.comまで！  
 
 
-# 同梱物
-・Flipbox2本体  
-・Flipbox2モーターモジュール  
+# 同梱物  
+・Flipbox2モーターモジュール
+・Flipbox2ハンドルモジュール（モーターモジュールにセット済）
 ・プラスチック棒（24本+予備1本）  
 ・サンプル紙（24枚）  
  
@@ -36,8 +36,8 @@ https://github.com/tokeruic/flipbox/blob/main/README.md
 
 <img src="https://github.com/tokeruic/flipbox/assets/69045494/a6512fb5-0b72-41e6-bea2-651e3423e4b9" width="25%">
 
-## ③モーターモジュールからFlipbox2本体を外す。
-**紙をセットする際や、ハンドルを回してアニメーションさせる場合は、必ずモーターモジュールから本体を取り外してください。**  
+## ③モーターモジュールからハンドルモジュールを外す。
+**紙をセットする際や、ハンドルを回してアニメーションさせる場合は、必ずモーターモジュールからハンドルモジュールを取り外してください。**  
 **歯車が噛み合っている時に無理やりハンドルを回すと故障の原因になります。**  
 
 ## ④紙をセットする。
@@ -45,7 +45,7 @@ https://github.com/tokeruic/flipbox/blob/main/README.md
 セット方法の動画はコチラ  
 https://www.youtube.com/watch?v=T0SDO_XomPg
    
-## ⑤紙をセットしたFlipbox2本体をモーターモジュールにセットする。
+## ⑤紙をセットしたハンドルモジュールをモーターモジュールにセットする。
 動画はコチラ  
 https://www.youtube.com/watch?v=n_5_KTsYoL4
     
