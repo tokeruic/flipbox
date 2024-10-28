@@ -1,3 +1,8 @@
+本説明書はFlipbox旧型を購入いただいた方向けの説明書です。  
+Flipbox2をご購入の方はこちらを参照ください。
+https://github.com/tokeruic/flipbox/blob/main/readme_software2.md  
+
+
 「FlipboxPDFMaker」ダウンロードはこちら  
 https://github.com/tokeruic/flipbox/releases/download/FlipboxPDFMaker/FlipboxPDFMaker_ver1.2.zip
 
