@@ -57,7 +57,7 @@ https://github.com/tokeruic/flipbox/blob/main/README.md
 https://www.youtube.com/watch?v=T0SDO_XomPg
    
 ## ⑤紙をセットしたハンドルモジュールをモーターモジュールにセットする。
-正面から見ながら、ハンドルモジュールから突き出た部分をモーターモジュールにセットします。  
+正面から見ながら、ハンドルモジュールから突き出た部分をモーターモジュールの穴にはめます。  
   
 次に、側面のスライドを下ろします。  
   
