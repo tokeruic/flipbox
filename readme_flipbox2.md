@@ -53,17 +53,15 @@ https://github.com/tokeruic/flipbox/blob/main/README.md
 ## ④紙をセットする。
   
 セット方法の動画はコチラ  
+(旧型を使用しているため少し形が違いますが、内容は同様です)  
 https://www.youtube.com/watch?v=T0SDO_XomPg
    
 ## ⑤紙をセットしたハンドルモジュールをモーターモジュールにセットする。
-動画はコチラ  
-https://www.youtube.com/watch?v=n_5_KTsYoL4
-
 正面から見ながら、ハンドルモジュールから突き出た部分をモーターモジュールにセットします。  
   
 次に、側面のスライドを下ろします。  
   
-最後に、内側のスライドを下ろします。  
+最後に、背面から見て内側のスライドを下ろします。  
 
 
     
