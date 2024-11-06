@@ -46,7 +46,7 @@ https://github.com/tokeruic/flipbox/blob/main/README.md
 
 <img src="https://github.com/user-attachments/assets/3aa51f21-2f63-4546-a082-0663ecf4ba79" width="25%">
 
-次に、内側のスライドをしっかり上まで上げます。 
+次に、内側のスライドをしっかり上まで上げます。  
 <img src="https://github.com/user-attachments/assets/44219b07-00ae-4aec-8d42-c8c8c46ecfea" width="25%">
 
 最後に、ハンドルモジュール全体を持ち、横方向に引き抜きます。  
