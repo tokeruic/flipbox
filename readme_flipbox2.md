@@ -42,12 +42,15 @@ https://github.com/tokeruic/flipbox/blob/main/README.md
 **紙をセットする際や、ハンドルを回してアニメーションさせる場合は、必ずモーターモジュールからハンドルモジュールを取り外してください。**  
 **歯車が噛み合っている時に無理やりハンドルを回すと故障の原因になります。**  
 
-まず側面のスライドを上げます。  
-  
-次に、内側のスライドを上げます。  
-  
-最後に、横方向にハンドルモジュールを引き抜きます。  
-  
+まず側面のスライドをしっかり上まで上げます。  
+
+<img src="https://github.com/user-attachments/assets/3aa51f21-2f63-4546-a082-0663ecf4ba79" width="25%">
+
+次に、内側のスライドをしっかり上まで上げます。 
+<img src="https://github.com/user-attachments/assets/44219b07-00ae-4aec-8d42-c8c8c46ecfea" width="25%">
+
+最後に、ハンドルモジュール全体を持ち、横方向に引き抜きます。  
+<img src="https://github.com/user-attachments/assets/03c9c703-f8a8-4d15-902b-177ef9425a11" width="25%">
 
 
 ## ④紙をセットする。
@@ -58,10 +61,13 @@ https://www.youtube.com/watch?v=T0SDO_XomPg
    
 ## ⑤紙をセットしたハンドルモジュールをモーターモジュールにセットする。
 正面から見ながら、ハンドルモジュールから突き出た部分をモーターモジュールの穴にはめます。  
-  
+<img src="https://github.com/user-attachments/assets/48ee33b4-5fce-4ca7-8df4-9e62ff3e0245" width="25%">
+
 次に、側面のスライドを下ろします。  
-  
+<img src="https://github.com/user-attachments/assets/84c41860-b50a-497b-a5eb-8d2befad1359" width="25%">
+
 最後に、背面から見て内側のスライドを下ろします。  
+<img src="https://github.com/user-attachments/assets/32cae7a6-afdc-4b1b-9dc3-251fbd3fd3eb" width="25%">
 
 
     
