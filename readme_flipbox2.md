@@ -21,7 +21,7 @@ worstvegetable@gmail.comまで！
 ・単３電池（3本）  
   
 また、ご自身が用意した画像で制作する場合は、WindowsPCが必要です。  
-詳しくはこちらhttps://github.com/tokeruic/flipbox/blob/main/README.md
+詳しくはこちらhttps://github.com/tokeruic/flipbox/blob/main/readme_software2.md  
 # 制作手順
 ## ①目印のため紙を半分に折る
 <img src="https://github.com/tokeruic/flipbox/assets/69045494/6729ad83-189a-4172-9e4c-1a02d7889d3c" width="25%">  
