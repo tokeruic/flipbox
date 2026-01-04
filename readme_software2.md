@@ -1,3 +1,12 @@
+新マニュアル・新ツールを公開しました！
+
+https://saiteiyasai.com/contents/flipbox/
+
+
+
+
+下記以降は古い情報です
+----------------------------------
 「FlipboxPDFMaker」ダウンロードはこちら  
 https://github.com/tokeruic/flipbox/releases/download/FlipboxPDFMaker/FlipboxPDFMaker_ver1.2.zip
 
